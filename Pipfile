@@ -9,6 +9,7 @@ verify_ssl = true
 twitchio = "*"
 requests = "*"
 gunicorn = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
